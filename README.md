@@ -53,7 +53,7 @@ Git • Docker • MySQL • MongoDB • Tableau • SPSS
 ---
 
 ## 📈 GitHub Stats (Optional but clean)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimsonjs7&show_icons=true)
 
 ---
 
