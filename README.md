@@ -55,11 +55,9 @@ REST APIs · Postman · Git · LaTeX · JWT · RBAC · Agile
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jimsonjs7&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimsonjs7&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Jimsonjs7&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+![Profile Views](https://komarev.com/ghpvc/?username=Jimsonjs7&color=58a6ff&style=flat&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/Jimsonjs7?label=Followers&style=flat&color=58a6ff&labelColor=0d1117)](https://github.com/Jimsonjs7)
+[![GitHub stars](https://img.shields.io/github/stars/Jimsonjs7?label=Total+Stars&style=flat&color=58a6ff&labelColor=0d1117)](https://github.com/Jimsonjs7)
 
 ---
 
