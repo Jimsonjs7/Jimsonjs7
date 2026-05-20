@@ -7,9 +7,9 @@ Passionate about building end-to-end applications, deriving insights from data, 
 
 ## 💼 Current Status
 
-- 🟢 Associate Analyst Trainee at **Aptivora Global Solutions** — REST APIs, JWT auth, RBAC, full-stack features  
-- 🔵 Learning: **ethical hacking & penetration testing** — understanding attacks to build more resilient systems  
-- 🟡 Practising: **secure coding** — input sanitisation, secrets management, auth hardening, OWASP Top 10
+- 🟢 Associate Analyst Trainee at **Aptivora Global Solutions** - REST APIs, JWT auth, RBAC, full-stack features  
+- 🔵 Learning: **ethical hacking & penetration testing** - understanding attacks to build more resilient systems  
+- 🟡 Practising: **secure coding** - input sanitisation, secrets management, auth hardening, OWASP Top 10
 
 ---
 
