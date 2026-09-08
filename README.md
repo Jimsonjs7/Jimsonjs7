@@ -7,7 +7,7 @@ Passionate about building end-to-end applications, deriving insights from data, 
 
 ## 💼 Current Status
 
-- 🟢 Associate Software Developer at **Aptivora Global Solutions** - REST APIs, JWT auth, RBAC, full-stack features  
+- 🟢 Software Developer at **Aptivora Global Solutions** - REST APIs, JWT auth, RBAC, full-stack features  
 - 🔵 Learning: **Ethical Hacking & Penetration testing** - understanding attacks to build more resilient systems  
 - 🟡 Practising: **Secure Coding** - input sanitisation, secrets management, auth hardening, OWASP Top 10
 
