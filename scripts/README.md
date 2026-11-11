@@ -32,6 +32,7 @@ python3 scripts/ascii_txt_to_svg.py custom-art.txt my-avatar.svg
 | `--width / --height`| Custom target card dimensions (default: 370x400) | `python3 scripts/ascii_txt_to_svg.py --width 370 --height 400` |
 | `--fg <hex>` | Custom text color (default: `#c9d1d9`) | `python3 scripts/ascii_txt_to_svg.py --fg "#58a6ff"` |
 | `--bg <hex>` | Custom background color (default: `#0d1117`) | `python3 scripts/ascii_txt_to_svg.py --bg "#161b22"` |
+| `--cursor-align` | Cursor position: `terminal` (x=24 left margin), `ascii` (x=pad_x), or `inline` (end of last row) | `python3 scripts/ascii_txt_to_svg.py --cursor-align terminal` |
 
 ---
 

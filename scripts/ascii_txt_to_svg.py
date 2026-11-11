@@ -43,6 +43,7 @@ def convert_ascii_to_svg(
     target_height: int = 400,
     terminal_window: bool = False,
     natural_scale: bool = False,
+    cursor_align: str = "terminal",
 ) -> str:
     """Build an animated SVG string from a list of ASCII art text lines."""
     raw_rows = [line.rstrip("\r\n") for line in lines]
@@ -85,7 +86,9 @@ def convert_ascii_to_svg(
             start_y = 20.0
             avail_h = height - start_y - 14.0
 
-        line_height = avail_h / max(n_rows, 1)
+        # Reserve a dedicated row below ASCII art for the terminal cursor
+        n_slots = (n_rows + 1) if not static and cursor_align != "inline" else n_rows
+        line_height = avail_h / max(n_slots, 1)
         font_size = line_height
         char_w = font_size * char_aspect
         text_w = n_cols * char_w
@@ -143,11 +146,22 @@ def convert_ascii_to_svg(
         )
 
     if not static:
-        last_row_len = len(rows[-1]) if rows else 0
-        cy = start_y + n_rows * line_height
-        cx = pad_x + last_row_len * char_w
+        if cursor_align == "inline":
+            last_row_len = len(rows[-1]) if rows else 0
+            cy = start_y + n_rows * line_height
+            cx = pad_x + last_row_len * char_w
+            cw = char_w
+        elif cursor_align == "ascii":
+            cy = start_y + (n_rows + 1) * line_height
+            cx = pad_x
+            cw = max(char_w, 3.0)
+        else:  # "terminal" (default: aligns with terminal left margin / info-card.svg)
+            cy = start_y + (n_rows + 1) * line_height
+            cx = 24.0 if terminal_window else pad_x
+            cw = max(char_w * 1.5, 4.0)
+
         parts.append(
-            f'  <rect class="cursor" x="{cx:.1f}" y="{cy - font_size + 1:.1f}" width="{char_w:.1f}" height="{font_size:.1f}"/>'
+            f'  <rect class="cursor" x="{cx:.1f}" y="{cy - font_size + 1:.1f}" width="{cw:.1f}" height="{font_size:.1f}"/>'
         )
 
     parts.append("</svg>")
@@ -207,6 +221,12 @@ def main():
         default=DEFAULT_BG,
         help=f"Background rectangle color (default: {DEFAULT_BG})",
     )
+    parser.add_argument(
+        "--cursor-align",
+        choices=["terminal", "ascii", "inline"],
+        default="terminal",
+        help="Cursor placement: 'terminal' (left margin x=24), 'ascii' (left edge of ASCII text), or 'inline' (end of last text row)",
+    )
 
     args = parser.parse_args()
 
@@ -227,6 +247,7 @@ def main():
         target_height=args.height,
         terminal_window=args.terminal_window,
         natural_scale=args.natural_scale,
+        cursor_align=args.cursor_align,
     )
 
     output_path = Path(args.output)
