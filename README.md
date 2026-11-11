@@ -1,72 +1,27 @@
-# 👋 Hi, I'm Jimson Shaju M
-### Full Stack Developer | Data Analyst | Cybersecurity Enthusiast
+<div align="center">
 
-Passionate about building end-to-end applications, deriving insights from data, and learning cybersecurity to ship more secure software.
+<table>
+<tr>
+<td width="370" valign="top">
 
----
+![ascii-portrait](./avi-ascii.svg)
 
-## 💼 Current Status
+</td>
+<td width="490" valign="top">
 
-- 🟢 Software Developer at **Aptivora Global Solutions** - REST APIs, JWT auth, RBAC, full-stack features  
-- 🔵 Learning: **Ethical Hacking & Penetration testing** - understanding attacks to build more resilient systems  
-- 🟡 Practising: **Secure Coding** - input sanitisation, secrets management, auth hardening, OWASP Top 10
+![info-card](./info-card.svg)
 
----
+</td>
+</tr>
+</table>
 
-## 🚀 What I Do
+### Jimson
+**Backend Engineer · AI/ML LLM Systems · Linux Enthusiast**
 
-- 🔐 **Secure Backend:** Django · FastAPI · Spring Boot · JWT · RBAC · API hardening  
-- 📊 **Data & ML:** Python · Pandas · Scikit-learn · TensorFlow · EDA · Feature Engineering  
-- 📱 **Mobile:** React Native (Expo) · Flutter · REST API integration  
-- 📈 **BI & Analytics:** Power BI · Tableau · SPSS · Alteryx · Matplotlib · Seaborn
-
----
-
-## 🛡️ Security Concepts
-
-`OWASP Top 10` · `JWT` · `RBAC` · `Input Sanitisation` · `SQL Injection Prevention`  
-`Secrets Management` · `HTTPS / TLS` · `Auth Hardening` · `Penetration Testing (Learning)`  
-`Ethical Hacking` · `Vulnerability Assessment` · `Secure SDLC`
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jimson-shaju-m) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YOUR_HANDLE) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jimsonjs7@gmail.com)
 
 ---
 
-## 🧰 Tech Stack
+![contribution-graph](./contrib-heatmap.svg)
 
-### Languages
-Python · Java · R · SQL · JavaScript · Dart
-
-### Backend & Frameworks
-Django · FastAPI · Spring Boot · React Native (Expo) · Flutter · Astro
-
-### Data & ML
-NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn · TensorFlow  
-EDA · Feature Engineering · Classification · Regression · Ensemble Methods  
-Generative AI · Agentic AI
-
-### Databases
-MySQL · PostgreSQL · MongoDB · Firebase · Supabase
-
-### Analytics & BI
-Power BI · Tableau · Excel · SPSS · Alteryx
-
-### Tools & Practices
-REST APIs · Postman · Git · LaTeX · JWT · RBAC · Agile
-
-
-## 📈 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=Jimsonjs7&color=58a6ff&style=flat&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/Jimsonjs7?label=Followers&style=flat&color=58a6ff&labelColor=0d1117)](https://github.com/Jimsonjs7)
-[![GitHub stars](https://img.shields.io/github/stars/Jimsonjs7?label=Total+Stars&style=flat&color=58a6ff&labelColor=0d1117)](https://github.com/Jimsonjs7)
-
----
-
-## 📫 Connect
-
-- 📧 jimsonjs7@gmail.com  
-- 💼 [linkedin.com/in/jimson-shaju-m](https://linkedin.com/in/jimson-shaju-m)  
-- 🐙 [github.com/Jimsonjs7](https://github.com/Jimsonjs7)
-
----
-
-> *"Security isn't an add-on — it's a design decision."*
+</div>
