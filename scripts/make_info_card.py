@@ -20,7 +20,7 @@ ROWS = [
     ("role", "Freelance Software Developer"),
     ("focus", "Backend engineering, AI/ML LLM pipelines"),
     ("stack", "Python, Java, TypeScript, JavaScript"),
-    ("infra", "Docker / Nginx / AWS / Oracle Cloud"),
+    ("infra", "Docker / Nginx / MinIO / CI/CD / Linux"),
     ("current", "RAG pipelines, agentic AI workflows"),
     ("exploring", "AI-native dev tooling, cybersecurity"),
     ("linkedin", "linkedin.com/in/jimson-shaju-m"),
