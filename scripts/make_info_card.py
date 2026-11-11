@@ -36,7 +36,7 @@ FONT = "'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace"
 FONT_SIZE = 14
 LINE_H = 26
 PAD_X = 24
-PAD_TOP = 40
+PAD_TOP = 58
 
 
 def escape_xml(s):

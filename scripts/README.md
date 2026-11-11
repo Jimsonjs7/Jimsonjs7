@@ -26,8 +26,10 @@ python3 scripts/ascii_txt_to_svg.py custom-art.txt my-avatar.svg
 ### Options & Flags
 | Flag | Description | Example |
 | :--- | :--- | :--- |
+| `--terminal-window` | Adds terminal title bar (3 dots + divider line) matching info-card | `python3 scripts/ascii_txt_to_svg.py --terminal-window` |
 | `--static` | Disables typing animation (all rows visible immediately, no cursor) | `python3 scripts/ascii_txt_to_svg.py --static` |
-| `--trim` | Trims excessive empty lines at top/bottom (keeps 2 lines padding) | `python3 scripts/ascii_txt_to_svg.py --trim` |
+| `--natural-scale` | Uses unconstrained dimensions rather than fitting 370x400 | `python3 scripts/ascii_txt_to_svg.py --natural-scale` |
+| `--width / --height`| Custom target card dimensions (default: 370x400) | `python3 scripts/ascii_txt_to_svg.py --width 370 --height 400` |
 | `--fg <hex>` | Custom text color (default: `#c9d1d9`) | `python3 scripts/ascii_txt_to_svg.py --fg "#58a6ff"` |
 | `--bg <hex>` | Custom background color (default: `#0d1117`) | `python3 scripts/ascii_txt_to_svg.py --bg "#161b22"` |
 

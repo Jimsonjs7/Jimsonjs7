@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 790" width="384" height="790">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 370 400" width="370" height="400">
 <style>
     .ascii-line {
       font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
-      font-size: 7px;
+      font-size: 3.98px;
       white-space: pre;
       fill: #c9d1d9;
     }
@@ -17,122 +17,101 @@
     .cursor {
       fill: #c9d1d9;
       animation: blink 0.9s steps(1) infinite;
-      animation-delay: 3.08s;
+      animation-delay: 2.38s;
     }
     @keyframes blink {
       50% { opacity: 0; }
     }
     </style>
-<rect x="0" y="0" width="384" height="790" fill="#0d1117" rx="6"/>
-<text x="10" y="14.0" class="ascii-line" style="animation-delay:0.000s"></text>
-<text x="10" y="21.0" class="ascii-line" style="animation-delay:0.028s"></text>
-<text x="10" y="28.0" class="ascii-line" style="animation-delay:0.056s"></text>
-<text x="10" y="35.0" class="ascii-line" style="animation-delay:0.084s"></text>
-<text x="10" y="42.0" class="ascii-line" style="animation-delay:0.112s"></text>
-<text x="10" y="49.0" class="ascii-line" style="animation-delay:0.140s"></text>
-<text x="10" y="56.0" class="ascii-line" style="animation-delay:0.168s"></text>
-<text x="10" y="63.0" class="ascii-line" style="animation-delay:0.196s"></text>
-<text x="10" y="70.0" class="ascii-line" style="animation-delay:0.224s"></text>
-<text x="10" y="77.0" class="ascii-line" style="animation-delay:0.252s"></text>
-<text x="10" y="84.0" class="ascii-line" style="animation-delay:0.280s"></text>
-<text x="10" y="91.0" class="ascii-line" style="animation-delay:0.308s">%%%%###*+=---====-:::::...............                             ...          ..:-==++++++++++++++</text>
-<text x="10" y="98.0" class="ascii-line" style="animation-delay:0.336s">%%%%####+--------::::.................                           .....          .....:--============</text>
-<text x="10" y="105.0" class="ascii-line" style="animation-delay:0.364s">:::---===--:::-:::.............  ....                            ..            ..   ...::------==---</text>
-<text x="10" y="112.0" class="ascii-line" style="animation-delay:0.392s">-------=---::::::......        .....                                       .....     ...::--======--</text>
-<text x="10" y="119.0" class="ascii-line" style="animation-delay:0.420s">=========--:::......           ....                                        ..        ....:---=======</text>
-<text x="10" y="126.0" class="ascii-line" style="animation-delay:0.448s">=========--::.....            .....                                                .  ....:---======</text>
-<text x="10" y="133.0" class="ascii-line" style="animation-delay:0.476s">==========-::.....            ....                                                       ..:----====</text>
-<text x="10" y="140.0" class="ascii-line" style="animation-delay:0.504s">==========--::.......                              .                                      ...:--====</text>
-<text x="10" y="147.0" class="ascii-line" style="animation-delay:0.532s">+++++++++++==:..........                                           .                         .::--==</text>
-<text x="10" y="154.0" class="ascii-line" style="animation-delay:0.560s">++++++++++++=-:.........                                         ...                          ..:--=</text>
-<text x="10" y="161.0" class="ascii-line" style="animation-delay:0.588s">+++++++++++++=-:...                                                                           ...:--</text>
-<text x="10" y="168.0" class="ascii-line" style="animation-delay:0.616s">++++++++++++++=-....                             .                                            ...:-:</text>
-<text x="10" y="175.0" class="ascii-line" style="animation-delay:0.644s">++++++++++++++==:...                            ..                                             ....:</text>
-<text x="10" y="182.0" class="ascii-line" style="animation-delay:0.672s">+++++++++++++==-...:..                                                                          ...:</text>
-<text x="10" y="189.0" class="ascii-line" style="animation-delay:0.700s">++++++++++++=-:..:-=:..                                                                           ..</text>
-<text x="10" y="196.0" class="ascii-line" style="animation-delay:0.728s">++++++++++++-:..:=+=-.</text>
-<text x="10" y="203.0" class="ascii-line" style="animation-delay:0.756s">+++++++++++=:. :=+++-.   .</text>
-<text x="10" y="210.0" class="ascii-line" style="animation-delay:0.784s">+++++++++++=:..-++++=:.  ..     ...</text>
-<text x="10" y="217.0" class="ascii-line" style="animation-delay:0.812s">+++++++++++-:.:=+++++=:. ...........   .......</text>
-<text x="10" y="224.0" class="ascii-line" style="animation-delay:0.840s">+++++++++++=::::==---:.. ..:::--:::.....</text>
-<text x="10" y="231.0" class="ascii-line" style="animation-delay:0.868s">+++++++++++===-:::........:--=---:::::...                                                       ....</text>
-<text x="10" y="238.0" class="ascii-line" style="animation-delay:0.896s">+++++++++=====-:..:.......:-====-----:::.......                                                .....</text>
-<text x="10" y="245.0" class="ascii-line" style="animation-delay:0.924s">++++++++======-:::........-====------::....    ......    ......                               ......</text>
-<text x="10" y="252.0" class="ascii-line" style="animation-delay:0.952s">+++++++==-====-:::.....:::-===-----::.....         ................</text>
-<text x="10" y="259.0" class="ascii-line" style="animation-delay:0.980s">+++++++=--===-::::.....:::-==----::.....::...        ...............          ......      ....</text>
-<text x="10" y="266.0" class="ascii-line" style="animation-delay:1.008s">++++++=--:----::::......:-====---:::....::::. ....     ............            .....     .:....</text>
-<text x="10" y="273.0" class="ascii-line" style="animation-delay:1.036s">++++++=:::::::.:--..:...:-=========-----==:.   ....     ........                ....     .:.....</text>
-<text x="10" y="280.0" class="ascii-line" style="animation-delay:1.064s">++++++=::.:::..:--. :.. .--==============-:..   ..     ...::...          ..:..  ....     .. .....</text>
-<text x="10" y="287.0" class="ascii-line" style="animation-delay:1.092s">++++++=:........-:. ..  :---=====++==--::::.....     ...::::....         .:::....::.     ..  .....</text>
-<text x="10" y="294.0" class="ascii-line" style="animation-delay:1.120s">++++++=.........:.      :---====+++++==--::....  ..::-------:....        ...::...::.     .:.........</text>
-<text x="10" y="301.0" class="ascii-line" style="animation-delay:1.148s">++++++-......     ..    :---===+++****+===-------==++====++=-::...       .......::..      . ....:...</text>
-<text x="10" y="308.0" class="ascii-line" style="animation-delay:1.176s">:::::::..              ..:-====+++**##*++======---=++++++++=-::::.....    .....:::.      ..  .......</text>
-<text x="10" y="315.0" class="ascii-line" style="animation-delay:1.204s">..........              .:-====++++***++==---------++++++++=--:::::..........:::::.      .    ......</text>
-<text x="10" y="322.0" class="ascii-line" style="animation-delay:1.232s">..................      .:--======+++===----::::::=+++++***+=---:::.........::::::.      .   .</text>
-<text x="10" y="329.0" class="ascii-line" style="animation-delay:1.260s">...................     .:--=========----::::...:-++++++***+=---::.........::::--:.</text>
-<text x="10" y="336.0" class="ascii-line" style="animation-delay:1.288s">.............:::.       .:-------------::::.....:====+======-:::::::.......:::::::.      ...</text>
-<text x="10" y="343.0" class="ascii-line" style="animation-delay:1.316s">............::::.       .::::-------:::::......:---:....:--:::...:::........::::::. ...:--..</text>
-<text x="10" y="350.0" class="ascii-line" style="animation-delay:1.344s">...........:::::.       ..::::::::::::::......:--=--:........................::::..-=====-::........</text>
-<text x="10" y="357.0" class="ascii-line" style="animation-delay:1.372s">:------::::::::::::::::::.::::...:::::....  ...::::....         ..............::..-========------:::</text>
-<text x="10" y="364.0" class="ascii-line" style="animation-delay:1.400s">...........................:::....::::.       .......                    ........:==================</text>
-<text x="10" y="371.0" class="ascii-line" style="animation-delay:1.428s">...................................:::.           .  ..   ..              .......:-----=======------</text>
-<text x="10" y="378.0" class="ascii-line" style="animation-delay:1.456s">=:...................:::.   ...........     ..::::....                    ......:-------------:::---</text>
-<text x="10" y="385.0" class="ascii-line" style="animation-delay:1.484s">=-:..........::::::.:::. .::.....  ....    ..:-==---::.............     ......:--==============-----</text>
-<text x="10" y="392.0" class="ascii-line" style="animation-delay:1.512s">::::::::::::::::::..:.   .:.::..    ........:----::::...... .......     .....::---==================</text>
-<text x="10" y="399.0" class="ascii-line" style="animation-delay:1.540s">...:......:::::::....   .:::--:.............:--:::......       ....    .   ....::--=================</text>
-<text x="10" y="406.0" class="ascii-line" style="animation-delay:1.568s">..........:::::::....   .:::---::............:::::....        ....              ....::::--==========</text>
-<text x="10" y="413.0" class="ascii-line" style="animation-delay:1.596s">...........:::::::...   ::::-----:...............::...                                   ..::---====</text>
-<text x="10" y="420.0" class="ascii-line" style="animation-delay:1.624s">............::::::.... .::::------:. ......  .........                                  ..........::</text>
-<text x="10" y="427.0" class="ascii-line" style="animation-delay:1.652s">............::::::..::. .:.:-------:.. .     ...                                            ....</text>
-<text x="10" y="434.0" class="ascii-line" style="animation-delay:1.680s">.............::::::.:::....:-------:::.</text>
-<text x="10" y="441.0" class="ascii-line" style="animation-delay:1.708s">..............:::::.::::.....-----::::..    :==:    .</text>
-<text x="10" y="448.0" class="ascii-line" style="animation-delay:1.736s">..............::::::.::::.. .:-----:::..:--:=##+++-:=-.</text>
-<text x="10" y="455.0" class="ascii-line" style="animation-delay:1.764s">...............:::::..::::....::-:::::::-+*++#*=-##:..</text>
-<text x="10" y="462.0" class="ascii-line" style="animation-delay:1.792s">  ..............:::::....:.....::::::::::-+==**-:#*:.</text>
-<text x="10" y="469.0" class="ascii-line" style="animation-delay:1.820s">  ..............::::::..........:::::::....::::..:.</text>
-<text x="10" y="476.0" class="ascii-line" style="animation-delay:1.848s">   ..............:::::............:::::::.......</text>
-<text x="10" y="483.0" class="ascii-line" style="animation-delay:1.876s">    ..............::::.......   ....:::::::::::...</text>
-<text x="10" y="490.0" class="ascii-line" style="animation-delay:1.904s">    ..............:::...........     ...::::::::..</text>
-<text x="10" y="497.0" class="ascii-line" style="animation-delay:1.932s">     ..............::.......   .....</text>
-<text x="10" y="504.0" class="ascii-line" style="animation-delay:1.960s">.      ..............:.........    .......</text>
-<text x="10" y="511.0" class="ascii-line" style="animation-delay:1.988s">.       ..........................                     ....</text>
-<text x="10" y="518.0" class="ascii-line" style="animation-delay:2.016s">.         ...........................              ...........</text>
-<text x="10" y="525.0" class="ascii-line" style="animation-delay:2.044s">           ...................................................</text>
-<text x="10" y="532.0" class="ascii-line" style="animation-delay:2.072s">            .................................................</text>
-<text x="10" y="539.0" class="ascii-line" style="animation-delay:2.100s">            ................................................</text>
-<text x="10" y="546.0" class="ascii-line" style="animation-delay:2.128s">             ..............................................</text>
-<text x="10" y="553.0" class="ascii-line" style="animation-delay:2.156s">              ............................................</text>
-<text x="10" y="560.0" class="ascii-line" style="animation-delay:2.184s">               .........................................             ....         ..</text>
-<text x="10" y="567.0" class="ascii-line" style="animation-delay:2.212s">.......        ........................................              ......    .....</text>
-<text x="10" y="574.0" class="ascii-line" style="animation-delay:2.240s">::::::.         .....................................                ...............</text>
-<text x="10" y="581.0" class="ascii-line" style="animation-delay:2.268s">::-:::.          ...................................                ................</text>
-<text x="10" y="588.0" class="ascii-line" style="animation-delay:2.296s">.......           ................    ...........                         .........</text>
-<text x="10" y="595.0" class="ascii-line" style="animation-delay:2.324s">                   ..............           ...                           .........</text>
-<text x="10" y="602.0" class="ascii-line" style="animation-delay:2.352s">                    .............                                         ........</text>
-<text x="10" y="609.0" class="ascii-line" style="animation-delay:2.380s">                     ..................  .                               .........</text>
-<text x="10" y="616.0" class="ascii-line" style="animation-delay:2.408s">                      .......................                           ..........</text>
-<text x="10" y="623.0" class="ascii-line" style="animation-delay:2.436s">                       ......................                          ..........</text>
-<text x="10" y="630.0" class="ascii-line" style="animation-delay:2.464s">                        .....................                          .........</text>
-<text x="10" y="637.0" class="ascii-line" style="animation-delay:2.492s">                         ..................                           .........</text>
-<text x="10" y="644.0" class="ascii-line" style="animation-delay:2.520s">                         ..................                           ........</text>
-<text x="10" y="651.0" class="ascii-line" style="animation-delay:2.548s">                          ................                            ........</text>
-<text x="10" y="658.0" class="ascii-line" style="animation-delay:2.576s">                           ..............                            ........</text>
-<text x="10" y="665.0" class="ascii-line" style="animation-delay:2.604s">                           ............                              .......</text>
-<text x="10" y="672.0" class="ascii-line" style="animation-delay:2.632s">                            ........                                 .....</text>
-<text x="10" y="679.0" class="ascii-line" style="animation-delay:2.660s">                              ..                                     ..</text>
-<text x="10" y="686.0" class="ascii-line" style="animation-delay:2.688s"></text>
-<text x="10" y="693.0" class="ascii-line" style="animation-delay:2.716s"></text>
-<text x="10" y="700.0" class="ascii-line" style="animation-delay:2.744s"></text>
-<text x="10" y="707.0" class="ascii-line" style="animation-delay:2.772s"></text>
-<text x="10" y="714.0" class="ascii-line" style="animation-delay:2.800s"></text>
-<text x="10" y="721.0" class="ascii-line" style="animation-delay:2.828s"></text>
-<text x="10" y="728.0" class="ascii-line" style="animation-delay:2.856s"></text>
-<text x="10" y="735.0" class="ascii-line" style="animation-delay:2.884s"></text>
-<text x="10" y="742.0" class="ascii-line" style="animation-delay:2.912s"></text>
-<text x="10" y="749.0" class="ascii-line" style="animation-delay:2.940s"></text>
-<text x="10" y="756.0" class="ascii-line" style="animation-delay:2.968s"></text>
-<text x="10" y="763.0" class="ascii-line" style="animation-delay:2.996s"></text>
-<text x="10" y="770.0" class="ascii-line" style="animation-delay:3.024s"></text>
-<text x="10" y="777.0" class="ascii-line" style="animation-delay:3.052s"></text>
-<rect class="cursor" x="10.0" y="771.0" width="3.6" height="7.0"/>
+<rect x="0" y="0" width="370" height="400" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <circle cx="20" cy="18" r="5" fill="#ff5f56"/>
+  <circle cx="38" cy="18" r="5" fill="#ffbd2e"/>
+  <circle cx="56" cy="18" r="5" fill="#27c93f"/>
+  <line x1="0" y1="32" x2="370" y2="32" stroke="#30363d" stroke-width="1"/>
+  <text x="81.6" y="54.0" class="ascii-line" style="animation-delay:0.000s">%%%%###*+=---====-:::::...............                             ...          ..:-==++++++++++++++</text>
+  <text x="81.6" y="58.0" class="ascii-line" style="animation-delay:0.028s">%%%%####+--------::::.................                           .....          .....:--============</text>
+  <text x="81.6" y="61.9" class="ascii-line" style="animation-delay:0.056s">:::---===--:::-:::.............  ....                            ..            ..   ...::------==---</text>
+  <text x="81.6" y="65.9" class="ascii-line" style="animation-delay:0.084s">-------=---::::::......        .....                                       .....     ...::--======--</text>
+  <text x="81.6" y="69.9" class="ascii-line" style="animation-delay:0.112s">=========--:::......           ....                                        ..        ....:---=======</text>
+  <text x="81.6" y="73.9" class="ascii-line" style="animation-delay:0.140s">=========--::.....            .....                                                .  ....:---======</text>
+  <text x="81.6" y="77.8" class="ascii-line" style="animation-delay:0.168s">==========-::.....            ....                                                       ..:----====</text>
+  <text x="81.6" y="81.8" class="ascii-line" style="animation-delay:0.196s">==========--::.......                              .                                      ...:--====</text>
+  <text x="81.6" y="85.8" class="ascii-line" style="animation-delay:0.224s">+++++++++++==:..........                                           .                         .::--==</text>
+  <text x="81.6" y="89.8" class="ascii-line" style="animation-delay:0.252s">++++++++++++=-:.........                                         ...                          ..:--=</text>
+  <text x="81.6" y="93.7" class="ascii-line" style="animation-delay:0.280s">+++++++++++++=-:...                                                                           ...:--</text>
+  <text x="81.6" y="97.7" class="ascii-line" style="animation-delay:0.308s">++++++++++++++=-....                             .                                            ...:-:</text>
+  <text x="81.6" y="101.7" class="ascii-line" style="animation-delay:0.336s">++++++++++++++==:...                            ..                                             ....:</text>
+  <text x="81.6" y="105.7" class="ascii-line" style="animation-delay:0.364s">+++++++++++++==-...:..                                                                          ...:</text>
+  <text x="81.6" y="109.6" class="ascii-line" style="animation-delay:0.392s">++++++++++++=-:..:-=:..                                                                           ..</text>
+  <text x="81.6" y="113.6" class="ascii-line" style="animation-delay:0.420s">++++++++++++-:..:=+=-.</text>
+  <text x="81.6" y="117.6" class="ascii-line" style="animation-delay:0.448s">+++++++++++=:. :=+++-.   .</text>
+  <text x="81.6" y="121.6" class="ascii-line" style="animation-delay:0.476s">+++++++++++=:..-++++=:.  ..     ...</text>
+  <text x="81.6" y="125.6" class="ascii-line" style="animation-delay:0.504s">+++++++++++-:.:=+++++=:. ...........   .......</text>
+  <text x="81.6" y="129.5" class="ascii-line" style="animation-delay:0.532s">+++++++++++=::::==---:.. ..:::--:::.....</text>
+  <text x="81.6" y="133.5" class="ascii-line" style="animation-delay:0.560s">+++++++++++===-:::........:--=---:::::...                                                       ....</text>
+  <text x="81.6" y="137.5" class="ascii-line" style="animation-delay:0.588s">+++++++++=====-:..:.......:-====-----:::.......                                                .....</text>
+  <text x="81.6" y="141.5" class="ascii-line" style="animation-delay:0.616s">++++++++======-:::........-====------::....    ......    ......                               ......</text>
+  <text x="81.6" y="145.4" class="ascii-line" style="animation-delay:0.644s">+++++++==-====-:::.....:::-===-----::.....         ................</text>
+  <text x="81.6" y="149.4" class="ascii-line" style="animation-delay:0.672s">+++++++=--===-::::.....:::-==----::.....::...        ...............          ......      ....</text>
+  <text x="81.6" y="153.4" class="ascii-line" style="animation-delay:0.700s">++++++=--:----::::......:-====---:::....::::. ....     ............            .....     .:....</text>
+  <text x="81.6" y="157.4" class="ascii-line" style="animation-delay:0.728s">++++++=:::::::.:--..:...:-=========-----==:.   ....     ........                ....     .:.....</text>
+  <text x="81.6" y="161.3" class="ascii-line" style="animation-delay:0.756s">++++++=::.:::..:--. :.. .--==============-:..   ..     ...::...          ..:..  ....     .. .....</text>
+  <text x="81.6" y="165.3" class="ascii-line" style="animation-delay:0.784s">++++++=:........-:. ..  :---=====++==--::::.....     ...::::....         .:::....::.     ..  .....</text>
+  <text x="81.6" y="169.3" class="ascii-line" style="animation-delay:0.812s">++++++=.........:.      :---====+++++==--::....  ..::-------:....        ...::...::.     .:.........</text>
+  <text x="81.6" y="173.3" class="ascii-line" style="animation-delay:0.840s">++++++-......     ..    :---===+++****+===-------==++====++=-::...       .......::..      . ....:...</text>
+  <text x="81.6" y="177.2" class="ascii-line" style="animation-delay:0.868s">:::::::..              ..:-====+++**##*++======---=++++++++=-::::.....    .....:::.      ..  .......</text>
+  <text x="81.6" y="181.2" class="ascii-line" style="animation-delay:0.896s">..........              .:-====++++***++==---------++++++++=--:::::..........:::::.      .    ......</text>
+  <text x="81.6" y="185.2" class="ascii-line" style="animation-delay:0.924s">..................      .:--======+++===----::::::=+++++***+=---:::.........::::::.      .   .</text>
+  <text x="81.6" y="189.2" class="ascii-line" style="animation-delay:0.952s">...................     .:--=========----::::...:-++++++***+=---::.........::::--:.</text>
+  <text x="81.6" y="193.2" class="ascii-line" style="animation-delay:0.980s">.............:::.       .:-------------::::.....:====+======-:::::::.......:::::::.      ...</text>
+  <text x="81.6" y="197.1" class="ascii-line" style="animation-delay:1.008s">............::::.       .::::-------:::::......:---:....:--:::...:::........::::::. ...:--..</text>
+  <text x="81.6" y="201.1" class="ascii-line" style="animation-delay:1.036s">...........:::::.       ..::::::::::::::......:--=--:........................::::..-=====-::........</text>
+  <text x="81.6" y="205.1" class="ascii-line" style="animation-delay:1.064s">:------::::::::::::::::::.::::...:::::....  ...::::....         ..............::..-========------:::</text>
+  <text x="81.6" y="209.1" class="ascii-line" style="animation-delay:1.092s">...........................:::....::::.       .......                    ........:==================</text>
+  <text x="81.6" y="213.0" class="ascii-line" style="animation-delay:1.120s">...................................:::.           .  ..   ..              .......:-----=======------</text>
+  <text x="81.6" y="217.0" class="ascii-line" style="animation-delay:1.148s">=:...................:::.   ...........     ..::::....                    ......:-------------:::---</text>
+  <text x="81.6" y="221.0" class="ascii-line" style="animation-delay:1.176s">=-:..........::::::.:::. .::.....  ....    ..:-==---::.............     ......:--==============-----</text>
+  <text x="81.6" y="225.0" class="ascii-line" style="animation-delay:1.204s">::::::::::::::::::..:.   .:.::..    ........:----::::...... .......     .....::---==================</text>
+  <text x="81.6" y="228.9" class="ascii-line" style="animation-delay:1.232s">...:......:::::::....   .:::--:.............:--:::......       ....    .   ....::--=================</text>
+  <text x="81.6" y="232.9" class="ascii-line" style="animation-delay:1.260s">..........:::::::....   .:::---::............:::::....        ....              ....::::--==========</text>
+  <text x="81.6" y="236.9" class="ascii-line" style="animation-delay:1.288s">...........:::::::...   ::::-----:...............::...                                   ..::---====</text>
+  <text x="81.6" y="240.9" class="ascii-line" style="animation-delay:1.316s">............::::::.... .::::------:. ......  .........                                  ..........::</text>
+  <text x="81.6" y="244.8" class="ascii-line" style="animation-delay:1.344s">............::::::..::. .:.:-------:.. .     ...                                            ....</text>
+  <text x="81.6" y="248.8" class="ascii-line" style="animation-delay:1.372s">.............::::::.:::....:-------:::.</text>
+  <text x="81.6" y="252.8" class="ascii-line" style="animation-delay:1.400s">..............:::::.::::.....-----::::..    :==:    .</text>
+  <text x="81.6" y="256.8" class="ascii-line" style="animation-delay:1.428s">..............::::::.::::.. .:-----:::..:--:=##+++-:=-.</text>
+  <text x="81.6" y="260.8" class="ascii-line" style="animation-delay:1.456s">...............:::::..::::....::-:::::::-+*++#*=-##:..</text>
+  <text x="81.6" y="264.7" class="ascii-line" style="animation-delay:1.484s">  ..............:::::....:.....::::::::::-+==**-:#*:.</text>
+  <text x="81.6" y="268.7" class="ascii-line" style="animation-delay:1.512s">  ..............::::::..........:::::::....::::..:.</text>
+  <text x="81.6" y="272.7" class="ascii-line" style="animation-delay:1.540s">   ..............:::::............:::::::.......</text>
+  <text x="81.6" y="276.7" class="ascii-line" style="animation-delay:1.568s">    ..............::::.......   ....:::::::::::...</text>
+  <text x="81.6" y="280.6" class="ascii-line" style="animation-delay:1.596s">    ..............:::...........     ...::::::::..</text>
+  <text x="81.6" y="284.6" class="ascii-line" style="animation-delay:1.624s">     ..............::.......   .....</text>
+  <text x="81.6" y="288.6" class="ascii-line" style="animation-delay:1.652s">.      ..............:.........    .......</text>
+  <text x="81.6" y="292.6" class="ascii-line" style="animation-delay:1.680s">.       ..........................                     ....</text>
+  <text x="81.6" y="296.5" class="ascii-line" style="animation-delay:1.708s">.         ...........................              ...........</text>
+  <text x="81.6" y="300.5" class="ascii-line" style="animation-delay:1.736s">           ...................................................</text>
+  <text x="81.6" y="304.5" class="ascii-line" style="animation-delay:1.764s">            .................................................</text>
+  <text x="81.6" y="308.5" class="ascii-line" style="animation-delay:1.792s">            ................................................</text>
+  <text x="81.6" y="312.4" class="ascii-line" style="animation-delay:1.820s">             ..............................................</text>
+  <text x="81.6" y="316.4" class="ascii-line" style="animation-delay:1.848s">              ............................................</text>
+  <text x="81.6" y="320.4" class="ascii-line" style="animation-delay:1.876s">               .........................................             ....         ..</text>
+  <text x="81.6" y="324.4" class="ascii-line" style="animation-delay:1.904s">.......        ........................................              ......    .....</text>
+  <text x="81.6" y="328.4" class="ascii-line" style="animation-delay:1.932s">::::::.         .....................................                ...............</text>
+  <text x="81.6" y="332.3" class="ascii-line" style="animation-delay:1.960s">::-:::.          ...................................                ................</text>
+  <text x="81.6" y="336.3" class="ascii-line" style="animation-delay:1.988s">.......           ................    ...........                         .........</text>
+  <text x="81.6" y="340.3" class="ascii-line" style="animation-delay:2.016s">                   ..............           ...                           .........</text>
+  <text x="81.6" y="344.3" class="ascii-line" style="animation-delay:2.044s">                    .............                                         ........</text>
+  <text x="81.6" y="348.2" class="ascii-line" style="animation-delay:2.072s">                     ..................  .                               .........</text>
+  <text x="81.6" y="352.2" class="ascii-line" style="animation-delay:2.100s">                      .......................                           ..........</text>
+  <text x="81.6" y="356.2" class="ascii-line" style="animation-delay:2.128s">                       ......................                          ..........</text>
+  <text x="81.6" y="360.2" class="ascii-line" style="animation-delay:2.156s">                        .....................                          .........</text>
+  <text x="81.6" y="364.1" class="ascii-line" style="animation-delay:2.184s">                         ..................                           .........</text>
+  <text x="81.6" y="368.1" class="ascii-line" style="animation-delay:2.212s">                         ..................                           ........</text>
+  <text x="81.6" y="372.1" class="ascii-line" style="animation-delay:2.240s">                          ................                            ........</text>
+  <text x="81.6" y="376.1" class="ascii-line" style="animation-delay:2.268s">                           ..............                            ........</text>
+  <text x="81.6" y="380.0" class="ascii-line" style="animation-delay:2.296s">                           ............                              .......</text>
+  <text x="81.6" y="384.0" class="ascii-line" style="animation-delay:2.324s">                            ........                                 .....</text>
+  <text x="81.6" y="388.0" class="ascii-line" style="animation-delay:2.352s">                              ..                                     ..</text>
+  <rect class="cursor" x="228.4" y="385.0" width="2.1" height="4.0"/>
 </svg>

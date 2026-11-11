@@ -12,13 +12,13 @@
 <circle cx="38" cy="18" r="5" fill="#ffbd2e"/>
 <circle cx="56" cy="18" r="5" fill="#27c93f"/>
 <line x1="0" y1="32" x2="490" y2="32" stroke="#30363d" stroke-width="1"/>
-<text x="24" y="40" class="mono prompt row" style="animation-delay:0s">jimsonjs7@github:~$ whoami</text>
-<text x="24" y="76" class="mono row" style="animation-delay:0.15s"><tspan class="label">role:      </tspan><tspan class="value"> Freelance Software Developer</tspan></text>
-<text x="24" y="102" class="mono row" style="animation-delay:0.27s"><tspan class="label">focus:     </tspan><tspan class="value"> Backend engineering, AI/ML LLM pipelines</tspan></text>
-<text x="24" y="128" class="mono row" style="animation-delay:0.39s"><tspan class="label">stack:     </tspan><tspan class="value"> Python, Java, TypeScript, JavaScript</tspan></text>
-<text x="24" y="154" class="mono row" style="animation-delay:0.51s"><tspan class="label">infra:     </tspan><tspan class="value"> Docker / Nginx / MinIO / CI/CD / Linux</tspan></text>
-<text x="24" y="180" class="mono row" style="animation-delay:0.63s"><tspan class="label">current:   </tspan><tspan class="value"> RAG pipelines, agentic AI workflows</tspan></text>
-<text x="24" y="206" class="mono row" style="animation-delay:0.75s"><tspan class="label">exploring: </tspan><tspan class="value"> AI-native dev tooling, cybersecurity</tspan></text>
-<text x="24" y="232" class="mono row" style="animation-delay:0.87s"><tspan class="label">linkedin:  </tspan><tspan class="value"> linkedin.com/in/jimson-shaju-m</tspan></text>
-<text x="24" y="274" class="mono prompt row" style="animation-delay:1.19s">jimsonjs7@github:~$ <tspan class="value">_</tspan></text>
+<text x="24" y="58" class="mono prompt row" style="animation-delay:0s">jimsonjs7@github:~$ whoami</text>
+<text x="24" y="94" class="mono row" style="animation-delay:0.15s"><tspan class="label">role:      </tspan><tspan class="value"> Freelance Software Developer</tspan></text>
+<text x="24" y="120" class="mono row" style="animation-delay:0.27s"><tspan class="label">focus:     </tspan><tspan class="value"> Backend engineering, AI/ML LLM pipelines</tspan></text>
+<text x="24" y="146" class="mono row" style="animation-delay:0.39s"><tspan class="label">stack:     </tspan><tspan class="value"> Python, Java, TypeScript, JavaScript</tspan></text>
+<text x="24" y="172" class="mono row" style="animation-delay:0.51s"><tspan class="label">infra:     </tspan><tspan class="value"> Docker / Nginx / MinIO / CI/CD / Linux</tspan></text>
+<text x="24" y="198" class="mono row" style="animation-delay:0.63s"><tspan class="label">current:   </tspan><tspan class="value"> RAG pipelines, agentic AI workflows</tspan></text>
+<text x="24" y="224" class="mono row" style="animation-delay:0.75s"><tspan class="label">exploring: </tspan><tspan class="value"> AI-native dev tooling, cybersecurity</tspan></text>
+<text x="24" y="250" class="mono row" style="animation-delay:0.87s"><tspan class="label">linkedin:  </tspan><tspan class="value"> linkedin.com/in/jimson-shaju-m</tspan></text>
+<text x="24" y="292" class="mono prompt row" style="animation-delay:1.19s">jimsonjs7@github:~$ <tspan class="value">_</tspan></text>
 </svg>
